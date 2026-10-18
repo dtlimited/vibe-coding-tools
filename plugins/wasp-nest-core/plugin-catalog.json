@@ -2726,7 +2726,8 @@
       "skills": [
         "ghl-to-mermaid-stinger",
         "gohighlevel-stinger",
-        "highlevel-ai-studio-stinger"
+        "highlevel-ai-studio-stinger",
+        "workflow-builder-stinger"
       ],
       "agents": [
         "ghl-to-mermaid-wasp-drone",
@@ -2742,7 +2743,7 @@
       "optional_workflow_requirements": {},
       "mandatory": false,
       "counts": {
-        "skill": 3,
+        "skill": 4,
         "agent": 3,
         "command": 1
       },
@@ -2762,6 +2763,11 @@
           "kind": "skill",
           "name": "highlevel-ai-studio-stinger",
           "source": "packs/highlevel/skills/highlevel-ai-studio-stinger/SKILL.md"
+        },
+        {
+          "kind": "skill",
+          "name": "workflow-builder-stinger",
+          "source": "packs/highlevel/skills/workflow-builder-stinger/SKILL.md"
         },
         {
           "kind": "agent",

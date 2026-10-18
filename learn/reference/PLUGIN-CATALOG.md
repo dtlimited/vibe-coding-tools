@@ -488,13 +488,14 @@ These are derived adapters for the source commands, not additional canonical ski
 
 ## highlevel
 
-Version `3.0.1`. 3 Stingers, 3 Drones. [Pack overview](../../plugins/highlevel/README.md).
+Version `3.0.1`. 4 Stingers, 3 Drones. [Pack overview](../../plugins/highlevel/README.md).
 
 ### Stingers
 
 - [ghl-to-mermaid-stinger](../../plugins/highlevel/skills/ghl-to-mermaid-stinger/SKILL.md): Turn a GoHighLevel/HighLevel account JSON export into per-workflow files and Mermaid flowcharts. Use for GHL snapshot exports, workflow diagrams, automation maps, or SuperSnapshot AI exports.
 - [gohighlevel-stinger](../../plugins/highlevel/skills/gohighlevel-stinger/SKILL.md): GoHighLevel API authority - OAuth vs Private Integration Tokens, contacts/opportunities/calendars, inbound/outbound webhooks, rate limits, Marketplace apps. Use for GoHighLevel/HighLevel integration.
 - [highlevel-ai-studio-stinger](../../plugins/highlevel/skills/highlevel-ai-studio-stinger/SKILL.md): HighLevel AI Studio specialist for Vibe sites, Content AI, Funnel & Website AI, and WordPress AI pages. Use for HighLevel AI content, site building, publishing, or troubleshooting.
+- [workflow-builder-stinger](../../plugins/highlevel/skills/workflow-builder-stinger/SKILL.md): Design, troubleshoot and review Tekmatix CRM workflows with Dani's own logic first. Logs her build rules, enforces her naming conventions, checks the trigger before any merge field. Standalone, no paired Drone.
 
 ### Drones
 
