@@ -12,7 +12,7 @@ EXPECTED_PLUGINS = frozenset({
     "developer-learning-tools", "software-economics-tools", "infrastructure-decision-tools",
     "repository-modernization-tools", "product-studio",
 })
-CANONICAL_TOTALS = {"skill": 223, "agent": 184, "command": 77}
+CANONICAL_TOTALS = {"skill": 224, "agent": 184, "command": 77}
 CORE_TOTALS = {"skill": 18, "agent": 14, "command": 9}
 IMMUTABLE_CORE = {"get-started-stinger", "library-stinger", "knowledge-stinger",
                   "quality-stinger", "security-stinger", "github-repo-health-stinger"}

@@ -7,7 +7,7 @@
 
 ### Get the Git life.
 
-**184 specialist Drones, 223 Stingers, commands, hooks, and rules across 21 installable plugins.**
+**184 specialist Drones, 224 Stingers, commands, hooks, and rules across 21 installable plugins.**
 
 Give your coding assistant the people, playbooks, and project memory it needs to build.
 
@@ -180,7 +180,7 @@ Marketplace release **v3.0.1**. The core and add-on packs have independent manif
 | [developer-learning-tools](plugins/developer-learning-tools/README.md) | 3.0.1 | 4 | 4 | Explain technical sources with source-grounded analogies and learner checks. |
 | [documentation-tools](plugins/documentation-tools/README.md) | 3.0.1 | 8 | 8 | Refresh, extract, publish and package documentation from real sources. |
 | [growth-and-customer-tools](plugins/growth-and-customer-tools/README.md) | 3.0.1 | 15 | 15 | Research buyers, acquire leads, follow up, support customers and grow accounts. |
-| [highlevel](plugins/highlevel/README.md) | 3.0.1 | 3 | 3 | Integrate HighLevel, build with AI Studio and map exported workflows. |
+| [highlevel](plugins/highlevel/README.md) | 3.0.1 | 4 | 3 | Integrate HighLevel, build with AI Studio and map exported workflows. |
 | [infrastructure-decision-tools](plugins/infrastructure-decision-tools/README.md) | 3.0.1 | 6 | 6 | Prepare platform assets and account dependencies without implicit setup actions. |
 | [littlebird-toolkit](plugins/littlebird-toolkit/README.md) | 3.0.1 | 30 | 0 | Turn Littlebird memory into evidence-backed operating work. |
 | [media-and-creative-tools](plugins/media-and-creative-tools/README.md) | 3.0.1 | 4 | 4 | Create consented photography and integrate voice and video production. |

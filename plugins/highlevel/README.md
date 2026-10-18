@@ -7,6 +7,7 @@ One installable Wasp Nest pack with three distinct HighLevel jobs:
 | REST API integrations, OAuth, CRM resources, and webhooks | [GoHighLevel](skills/gohighlevel-stinger/SKILL.md) | [GoHighLevel Drone](agents/gohighlevel-wasp-drone.md) |
 | AI Studio and other HighLevel AI creation surfaces | [AI Studio](skills/highlevel-ai-studio-stinger/SKILL.md) | [AI Studio Drone](agents/highlevel-ai-studio-wasp-drone.md) |
 | Offline account-export conversion to Mermaid charts | [GHL to Mermaid](skills/ghl-to-mermaid-stinger/SKILL.md) | [GHL to Mermaid Drone](agents/ghl-to-mermaid-wasp-drone.md) |
+| Designing, naming and troubleshooting workflows with the owner's own logic | [Workflow Builder](skills/workflow-builder-stinger/SKILL.md) | None (standalone) |
 
 The converter reads a location export. It does not call the live HighLevel API. The REST API Stinger owns live integration; the AI Studio Stinger owns in-product creation and publishing. Install this pack when you need any of the three. A fresh core-only install omits all three specialist pairs; the core router can identify them but must ask for this pack before dispatch. Purge the previous layout before installing version 3; legacy aliases are not shipped.
 
@@ -17,13 +18,14 @@ First-party pack material is licensed under [AGPL-3.0-or-later](LICENSE.md). Ext
 <!-- wasp-pack-guide:start -->
 ## Choose a capability
 
-This pack contains 3 skills, 3 agents and 1 source command. The table explains each source skill; open its linked instructions for exact inputs, outputs and limits.
+This pack contains 4 skills, 3 agents and 1 source command. The table explains each source skill; open its linked instructions for exact inputs, outputs and limits.
 
 | Skill | What it does and when to use it |
 | --- | --- |
 | [ghl-to-mermaid-stinger](skills/ghl-to-mermaid-stinger/SKILL.md) | Turn a GoHighLevel/HighLevel account JSON export into per-workflow files and Mermaid flowcharts. Use for GHL snapshot exports, workflow diagrams, automation maps, or SuperSnapshot AI exports. |
 | [gohighlevel-stinger](skills/gohighlevel-stinger/SKILL.md) | GoHighLevel API authority - OAuth vs Private Integration Tokens, contacts/opportunities/calendars, inbound/outbound webhooks, rate limits, Marketplace apps. Use for GoHighLevel/HighLevel integration. |
 | [highlevel-ai-studio-stinger](skills/highlevel-ai-studio-stinger/SKILL.md) | HighLevel AI Studio specialist for Vibe sites, Content AI, Funnel & Website AI, and WordPress AI pages. Use for HighLevel AI content, site building, publishing, or troubleshooting. |
+| [workflow-builder-stinger](skills/workflow-builder-stinger/SKILL.md) | Design, troubleshoot and review Tekmatix CRM workflows with Dani's own logic first. Logs her build rules, enforces her naming conventions, checks the trigger before any merge field. |
 
 ## Start one task
 
